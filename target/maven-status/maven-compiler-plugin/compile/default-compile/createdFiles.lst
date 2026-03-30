@@ -1,0 +1,11 @@
+com\msme\fraud\controller\ChatController.class
+com\msme\fraud\GlobalExceptionHandler$ErrorResponse.class
+com\msme\fraud\GlobalExceptionHandler.class
+com\msme\fraud\MsmefrauddetectionApplication.class
+com\msme\fraud\service\FraudDetectionService.class
+com\msme\fraud\controller\ApplicantController.class
+com\msme\fraud\service\FileStorageService.class
+com\msme\fraud\model\Applicant.class
+com\msme\fraud\repository\ApplicantRepository.class
+com\msme\fraud\service\OCRService.class
+com\msme\fraud\util\ValidationUtil.class
